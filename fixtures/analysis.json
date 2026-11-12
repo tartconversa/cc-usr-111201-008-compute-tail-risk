@@ -1,0 +1,27 @@
+{
+  "alpha": "9/10",
+  "budget_grid": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25
+  ],
+  "exceedance": "strict_greater_than",
+  "importance_draws": 1000,
+  "independent_repeats": 100,
+  "seed": 1120108,
+  "proposal_variants": {
+    "natural": [
+      "4/5",
+      "3/20",
+      "1/20"
+    ],
+    "tail_heavy": [
+      "1/5",
+      "3/10",
+      "1/2"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "c81350b523c7ce64cba884fb8f7e596af7af5f864b67a665423c70b1f98b7244",
+    "size_bytes": 366
+  },
+  {
+    "path": "fixtures/scenarios.json",
+    "sha256": "a10411707fe0bc1230473f1601a799cebf3f8951f8cb2403d146af8272ec3339",
+    "size_bytes": 461
+  },
+  {
+    "path": "fixtures/tied-tail.json",
+    "sha256": "a9f68e9aa2e3b4eda63613c0de5376051e11fb225db23179ccc6b37e7dc873b8",
+    "size_bytes": 445
+  }
+]
